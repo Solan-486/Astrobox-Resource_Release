@@ -1,0 +1,68 @@
+{
+  "item": {
+    "id": "com.SoDictionary.solan",
+    "name": "So词典[英汉互译版]",
+    "description": "注意：此处为英汉互译版，日语版本rpk安装包请点击下方链接跳转米坛帖子进行下载~~\n\n--1.支持英汉互译和日汉互译；\n-- 2.涵盖高考英语高考日语的所有词汇+部分常见词汇；\n-- 3.支持快速搜索&全部搜索&模糊搜索&精确搜索；\n-- 4.支持在手机和手表端收藏和查看词汇；\n-- 5.支持在手机和手表端查看词汇统计数据；\n-- 6.手机端支持播放词汇朗读发音[需要手机系统带有相关原生组件]",
+    "preview": [
+      "Preview.png",
+      "more.jpg",
+      "image/Android/0 (4).png",
+      "image/Android/0 (1).png",
+      "image/Android/0 (5).png",
+      "image/Android/0 (3).png",
+      "image/9Pro/EN/Vela_9Pro-2026-07-17-12-13-29.png",
+      "image/9Pro/EN/Vela_9Pro-2026-07-17-12-13-50.png",
+      "image/9Pro/EN/Vela_9Pro-2026-07-17-12-14-17.png",
+      "image/9Pro/EN/Vela_9Pro-2026-07-17-12-14-23.png",
+      "image/9Pro/EN/Vela_9Pro-2026-07-17-12-14-50.png",
+      "image/Band10/JA/Vela_Band10-2026-07-17-11-50-16.png",
+      "image/Band10/JA/Vela_Band10-2026-07-17-11-51-12.png",
+      "image/Band10/JA/Vela_Band10-2026-07-17-11-52-00.png",
+      "image/Band10/JA/Vela_Band10-2026-07-17-11-52-12.png",
+      "image/Band10/JA/Vela_Band10-2026-07-17-11-54-40.png"
+    ],
+    "icon": "icon.png",
+    "cover": "Preview.png",
+    "source_url": "https://github.com/Solan-486/Astrobox-Resource_AstroBox_Release",
+    "author": [
+      {
+        "name": "Solan",
+        "author_url": "https://www.bandbbs.cn/members/1417681/"
+      }
+    ]
+  },
+  "downloads": {
+    "n66": {
+      "version": "1.2.0",
+      "file_name": "So词典-英汉版[修].rpk"
+    },
+    "n67": {
+      "version": "1.2.0",
+      "file_name": "So词典-英汉版[修].rpk"
+    },
+    "o66": {
+      "version": "1.2.0",
+      "file_name": "So词典-英汉版[修].rpk"
+    },
+    "o66nfc": {
+      "version": "1.2.0",
+      "file_name": "So词典-英汉版[修].rpk"
+    },
+    "o65": {
+      "version": "1.2.0",
+      "file_name": "So词典-英汉版[修].rpk"
+    },
+    "o65m": {
+      "version": "1.2.0",
+      "file_name": "So词典-英汉版[修].rpk"
+    },
+    "p65": {
+      "version": "1.2.0",
+      "file_name": "So词典-英汉版[修].rpk"
+    },
+    "p67": {
+      "version": "1.2.0",
+      "file_name": "So词典-英汉版[修].rpk"
+    }
+  }
+}
