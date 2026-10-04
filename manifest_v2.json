@@ -32,9 +32,14 @@
   },
   "links": [
     {
+      "title": "官网&介绍",
+      "url": "https://cdn.solan.work/SoDictionary/",
+      "icon": "link"
+    },
+    {
       "title": "下载日汉词典",
       "url": "https://www.bandbbs.cn/resources/6994/",
-      "icon": "link"
+      "icon": "package"
     },
     {
       "title": "手机同步器下载",
